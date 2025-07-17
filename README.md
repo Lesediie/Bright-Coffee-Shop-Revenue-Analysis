@@ -68,7 +68,7 @@ The insights aim to support business decisions on product focus, store optimizat
 - Measure monthly growth trends.
 
 📊 Dataset Description
-- The dataset includes:
+   The dataset includes:
 - Store Names
 - Monthly Revenue (Jan–Jun)
 - Product Category Revenue
