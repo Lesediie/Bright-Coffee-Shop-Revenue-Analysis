@@ -188,4 +188,5 @@ Visuals available in the presentation.pdf:
   Encourage repeat visits with digital loyalty cards, discounts on the 5th visit, or birthday offers
 
 👤 Author
+
 Lesedi Mokgono
