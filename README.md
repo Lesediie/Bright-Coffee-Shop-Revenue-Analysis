@@ -52,6 +52,7 @@ Revenue across the days of the week remained relatively stable, with Thursday be
 highest (14.48%) and Saturday being lowest (13.84%) .
 
 📌 Overview
+
 This project examines the revenue performance of Bright Coffee Shop from January to June, across three locations:
 
 Hell's Kitchen
