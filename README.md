@@ -91,17 +91,17 @@ Store	Total Revenue	% of Total
 
 Month	Total Revenue
 
-Jan	R9,301.00
+- Jan	R9,301.00
 
-Feb	R8,562.00
+- Feb	R8,562.00
 
-Mar	R10,354.00
+- Mar	R10,354.00
 
-Apr	R10,953.00
+- Apr	R10,953.00
 
-May	R12,328.00
+- May	R12,328.00
 
-Jun	R12,298.00
+- Jun	R12,298.00
 
 [June was the top month (19.28% of revenue)]
 [January was the lowest (14.58%)]
@@ -113,23 +113,23 @@ Lowest Day: Saturday (13.84%)
 
 🍵 Revenue by Product Category (Product	Revenue	% Share)
 
-Coffee	R23,913.00 - 37.48%
+- Coffee	R23,913.00 - 37.48%
 
-Tea	R18,496.00 - 28.98%
+- Tea	R18,496.00 - 28.98%
 
-Bakery	R10,546.00 - 16.53%
+- Bakery	R10,546.00 - 16.53%
 
-Drinking Chocolate	R4,681.00 - 7.34%
+- Drinking Chocolate	R4,681.00 - 7.34%
 
-Flavours	R2,568.00 - 4.03%
+- Flavours	R2,568.00 - 4.03%
 
-Coffee Beans	R1,504.00	- 2.36%
+- Coffee Beans	R1,504.00	- 2.36%
 
-Loose Tea	R1,069.00	- 1.68%
+- Loose Tea	R1,069.00	- 1.68%
 
-Branded	R573.00	- 0.90%
+- Branded	R573.00	- 0.90%
 
-Packaged Chocolate	R446.00	- 0.68%
+- Packaged Chocolate	R446.00	- 0.68%
 
 (Top Seller: Coffee)
 (Lowest Seller: Packaged Chocolate)
@@ -137,11 +137,11 @@ Packaged Chocolate	R446.00	- 0.68%
 ⏰ Revenue by Time Bucket
 Time Bucket	Revenue	% Share
 
-Morning	R27,694.00 - 43.41%
+- Morning	R27,694.00 - 43.41%
 
-Afternoon	R21,490.00 - 33.69%
+- Afternoon	R21,490.00 - 33.69%
 
-Evening	R14,612.00	- 22.90%
+- Evening	R14,612.00	- 22.90%
 
 (Peak Time: Morning)
 
