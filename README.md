@@ -35,7 +35,7 @@ Recommendations
 Author
 
 
-Summary
+                                          Summary
 
 The shop made a total revenue of R63,796.00 between January and June, generated from three store 
 locations: Hell’s Kitchen, Astoria, and Lower Manhattan.
