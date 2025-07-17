@@ -70,10 +70,10 @@ The insights aim to support business decisions on product focus, store optimizat
 🏪 Revenue by Store:
 Store	Total Revenue	% of Total
 
-- Hell's Kitchen	R21,932.00	- 34.38%
+- Hell's Kitchen	R21,932.00	- 34.38% (Top performer)
 - Astoria	R21,557.00	- 33.79%
 - Lower Manhattan	R20,307.00	- 31.83%
-   (Top performer: Hell’s Kitchen)
+   
 
 📆 Monthly Revenue Growth
 
