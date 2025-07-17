@@ -166,25 +166,36 @@ Visuals available in the presentation.pdf:
 
 ✅ Recommendations to Improve Performance
 
-- Promote Best-Selling Products
+- Promote Best-Selling Products:
   Focus marketing and upselling efforts on coffee and tea, which contribute the highest revenue.
 - Boost Low-Performing Items
+  
   Repackage, reposition, or run promotions for low-selling products like Packaged Chocolate and Branded merchandise.
+  
 - Optimize Morning Operations
+  
   Since mornings generate the most revenue, ensure staffing, stock levels, and customer service are strongest during this period.
+  
 - Increase Afternoon and Evening Sales
 - Introduce happy hour specials, combo deals, or loyalty rewards to attract customers during slower periods.
 - Improve Performance at Lower Manhattan Store
 - Investigate causes for underperformance (e.g., foot traffic, customer service, competition) and implement location-specific improvements.
+  
   Expand Product Variety in High-Demand Categories
+  
 - Introduce more flavored coffees or teas, seasonal drinks, or healthy options based on customer trends.
+  
   Use Data to Inform Inventory and Marketing
+  
 - Align stock levels and promotions with best-selling products and peak times to reduce waste and increase efficiency.
 - Enhance Customer Experience
 - collect feedback regularly and improve ambiance, speed of service, or store layout based on customer insights.
 - Local Partnerships & Events
+  
   Partner with local businesses or host small events to increase foot traffic, especially in Lower Manhattan.
+  
 - Leverage Loyalty Programs
+  
   Encourage repeat visits with digital loyalty cards, discounts on the 5th visit, or birthday offers
 
 👤 Author
