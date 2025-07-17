@@ -67,7 +67,7 @@ The insights aim to support business decisions on product focus, store optimizat
 
 📈 Analysis Summary
 
-🏪 Revenue by Store
+🏪 Revenue by Store:
 Store	Total Revenue	% of Total
 
 - Hell's Kitchen	R21,932.00	34.38%
