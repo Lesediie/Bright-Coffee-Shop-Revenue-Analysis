@@ -14,15 +14,26 @@ This analysis helps identify top-performing stores, best-selling products, and p
 
 📋 Table of Contents
 Summary
+
 Overview
+
+
 Objectives
+
 Dataset Description
+
 Analysis Summary
+
 Key Findings
+
 Visualizations
+
 Tools Used
+
 Recommendations
+
 Author
+
 
 Summary
 
@@ -80,11 +91,17 @@ Store	Total Revenue	% of Total
 Month	Total Revenue
 
 Jan	R9,301.00
+
 Feb	R8,562.00
+
 Mar	R10,354.00
+
 Apr	R10,953.00
+
 May	R12,328.00
+
 Jun	R12,298.00
+
 [June was the top month (19.28% of revenue)]
 [January was the lowest (14.58%)]
 [6.15% average increase over 6 months]
@@ -96,13 +113,21 @@ Lowest Day: Saturday (13.84%)
 🍵 Revenue by Product Category (Product	Revenue	% Share)
 
 Coffee	R23,913.00 - 37.48%
+
 Tea	R18,496.00 - 28.98%
+
 Bakery	R10,546.00 - 16.53%
+
 Drinking Chocolate	R4,681.00 - 7.34%
+
 Flavours	R2,568.00 - 4.03%
+
 Coffee Beans	R1,504.00	- 2.36%
+
 Loose Tea	R1,069.00	- 1.68%
+
 Branded	R573.00	- 0.90%
+
 Packaged Chocolate	R446.00	- 0.68%
 
 (Top Seller: Coffee)
@@ -110,23 +135,32 @@ Packaged Chocolate	R446.00	- 0.68%
 
 ⏰ Revenue by Time Bucket
 Time Bucket	Revenue	% Share
+
 Morning	R27,694.00 - 43.41%
+
 Afternoon	R21,490.00 - 33.69%
+
 Evening	R14,612.00	- 22.90%
+
 (Peak Time: Morning)
 
 📊 Visualizations
 Visuals available in the presentation.pdf:
 
 - Bar Chart: Revenue per Store
+  
 - Pie Charts: Product Category Shares
+  
 - Line Graph: Monthly Trends
+  
 - Stacked Bar: Revenue by Time Bucket
 
 🛠 Tools Used
 
 - Microsoft Excel
+  
 - PowerPoint (for visuals)
+  
 - Git & GitHub (for version control)
 
 ✅ Recommendations to Improve Performance
