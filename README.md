@@ -55,9 +55,9 @@ highest (14.48%) and Saturday being lowest (13.84%) .
 
 This project examines the revenue performance of Bright Coffee Shop from January to June, across three locations:
 
-Hell's Kitchen
-Astoria
-Lower Manhattan
+- Hell's Kitchen
+- Astoria
+- Lower Manhattan
 
 The insights aim to support business decisions on product focus, store optimization, and time-based marketing strategies.
 
